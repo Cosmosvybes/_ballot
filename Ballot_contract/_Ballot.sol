@@ -46,4 +46,6 @@ contract ballotContract {
     {
         participants[user_id] = Participant(name, 0);
     }
+
+    
 }
